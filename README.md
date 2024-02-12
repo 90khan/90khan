@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @90khan
 - 👀 I’m interested in Data Science and Blockchain
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Smart Contracts 
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Natural Language Processing (LLM), Computer Vision and Smart Contracts 
 - 💞️ I’m looking to collaborate on Data Science and Blockchain
 - 📫 How to reach me gokhnusluer@gmail.com
 
