@@ -1,13 +1,13 @@
 
 
-<h1 align="center">👋 Hi, I'm @90khan</h1>
+<h1 align="center">👋 Hi, I'm Gokhan</h1>
 
 <p align="center">
   🚀 Senior Data Scientist | AI, LLM & Agentic AI Explorer | Blockchain Enthusiast
 </p>
 
 
-### ✨ Fun / Animated Section
+###
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM,+RAG+%26+Agentic+AI+Explorer" />
 </p>
