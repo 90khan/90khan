@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=FF69B4&center=true&width=500&lines=Hi,+I'm+Gokhan" style="margin-top:10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=1E3A8A&center=true&width=500&lines=Hi,+I'm+Gokhan" style="margin-top:10px;" />
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM,+RAG+%26+Agentic+AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1E3A8A&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM,+RAG+%26+Agentic+AI+Explorer" />
 </p>
+
 
 
 ---
