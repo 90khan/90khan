@@ -34,15 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=90khan&show_icons=true&theme=radical" alt="90khan's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=90khan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
