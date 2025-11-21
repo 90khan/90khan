@@ -1,7 +1,15 @@
+
+
 <h1 align="center">👋 Hi, I'm @90khan</h1>
 
 <p align="center">
   🚀 Senior Data Scientist | AI, LLM & Agentic AI Explorer | Blockchain Enthusiast
+</p>
+
+
+### ✨ Fun / Animated Section
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM,+RAG+%26+Agentic+AI+Explorer" />
 </p>
 
 ---
@@ -53,30 +61,5 @@
   </a>
   <a href="mailto:gokhnusluer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ✨ Fun / Animated Section
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM,+RAG+%26+Agentic+AI+Explorer" />
-</p>
-
----
-
-### 🔮 Featured AI / RAG / Agentic Projects
-<p align="center">
-  <a href="https://github.com/90khan/rag-project" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="RAG Project GIF" width="180" />
-    <br>RAG System<br><sub>LLM + Knowledge Retrieval System</sub>
-  </a>
-  <a href="https://github.com/90khan/agentic-ai-project" target="_blank">
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Agentic AI Project GIF" width="180" />
-    <br>Agentic AI<br><sub>Autonomous multi-agent decision making</sub>
-  </a>
-  <a href="https://github.com/90khan/multi-agent-system" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Multi-Agent AI Project GIF" width="180" />
-    <br>Multi-Agent System<br><sub>Collaborative AI agents solving complex tasks</sub>
   </a>
 </p>
