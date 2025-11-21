@@ -1,23 +1,24 @@
 <h1 align="center">👋 Hi, I'm @90khan</h1>
 
 <p align="center">
-  🚀 Senior Data Scientist | AI & LLM Explorer | Blockchain Enthusiast
+  🚀 Senior Data Scientist | AI, LLM & Agentic AI Explorer | Blockchain Enthusiast
 </p>
 
 ---
 
 ### 🌱 About Me
 - **Senior Data Scientist** with experience turning complex data into actionable insights  
-- Exploring **Machine Learning**, **Deep Learning**, **Natural Language Processing (LLMs)**, **Agent AI**, **Computer Vision**, and **Smart Contracts**  
+- Exploring cutting-edge AI technologies: **LLMs**, **RAG (Retrieval-Augmented Generation)**, **Agentic AI**, **Multi-Agent Systems**, **Computer Vision**, **Machine & Deep Learning**, and **Smart Contracts**  
 - Passionate about **AI-driven solutions** and **blockchain innovations**  
-- Always open to **collaborations on Data Science & Blockchain projects**
+- Always open to **collaborations on Data Science, AI & Blockchain projects**
 
 ---
 
 ### 🔭 What I'm Working On
-- 💻 Building **ML/DL models** to solve real-world challenges  
-- 🤖 Developing **LLM & Agent AI projects** for advanced automation  
-- ⛓️ Creating **Smart Contracts** on blockchain networks  
+- 💻 Building **ML/DL pipelines** for real-world applications  
+- 🤖 Developing **LLM-powered RAG systems** and **Agentic AI frameworks** for advanced automation  
+- 🧠 Designing **multi-agent AI systems** for complex problem solving  
+- ⛓️ Creating **Smart Contracts** and **blockchain-based solutions**
 
 ---
 
@@ -26,17 +27,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-5A31F4?style=for-the-badge&logo=transformers&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent_AI-FF6F61?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge&logo=weaviate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FFAA00?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi-Agent-4B0082?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-323330?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Smart_Contracts-007ACC?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-F7DF1E?style=for-the-badge&logo=plotly&logoColor=black" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="linkedin.com/in/gokhan-u-451715238" target="_blank">
+  <a href="https://www.linkedin.com/in/gokhan-u-451715238" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter/" target="_blank">
@@ -55,8 +58,25 @@
 
 ---
 
-### ✨ Fun/Animated Section
+### ✨ Fun / Animated Section
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM+%26+Agent+AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=AI+%26+Blockchain+Enthusiast;Senior+Data+Scientist;LLM,+RAG+%26+Agentic+AI+Explorer" />
 </p>
 
+---
+
+### 🔮 Featured AI / RAG / Agentic Projects
+<p align="center">
+  <a href="https://github.com/90khan/rag-project" target="_blank">
+    <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="RAG Project GIF" width="180" />
+    <br>RAG System<br><sub>LLM + Knowledge Retrieval System</sub>
+  </a>
+  <a href="https://github.com/90khan/agentic-ai-project" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Agentic AI Project GIF" width="180" />
+    <br>Agentic AI<br><sub>Autonomous multi-agent decision making</sub>
+  </a>
+  <a href="https://github.com/90khan/multi-agent-system" target="_blank">
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Multi-Agent AI Project GIF" width="180" />
+    <br>Multi-Agent System<br><sub>Collaborative AI agents solving complex tasks</sub>
+  </a>
+</p>
