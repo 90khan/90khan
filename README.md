@@ -9,7 +9,7 @@
 ---
 
 ### 🌱 About Me
-- **Senior Data Scientist** with experience turning complex data into actionable insights  
+- **Senior Data Scientist / AI Engineer** with experience turning complex data into actionable insights  
 - Exploring cutting-edge AI technologies: **LLMs**, **RAG (Retrieval-Augmented Generation)**, **Agentic AI**, **Multi-Agent Systems**, **Computer Vision**, **Machine & Deep Learning**, and **Smart Contracts**  
 - Passionate about **AI-driven solutions** and **blockchain innovations**  
 - Always open to **collaborations on Data Science, AI & Blockchain projects**
